@@ -12,9 +12,11 @@ https://github.com/rodrigo-92-srb/ProductsAPI
 - É possível ver o resultado no navegador no seguinte endereço:
 (http://localhost:3000)
 
-- Lista de produtos:
+- Lista de produtos e opção de cadastro de novo produto:
 
 <img src="src\img\list.png">
+
+- Produto selecionado (Operações de atualizar e remover produto)
 
 <img src="src\img\operations.png">
 
